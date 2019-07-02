@@ -35,8 +35,6 @@ document.querySelector('.btn-roll').addEventListener('click', function(){
 			// Next player
 			nextPlayer();
 		}
-		
-		//previousDice = dice;
 	}
 });
 
